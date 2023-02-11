@@ -38,7 +38,6 @@ TextLabel.TextSize = 14.000
 TextLabel.TextWrapped = true
 wait(1)
 local Units = {
-	"{125122b1-74ba-468c-a55c-77cf9c90dc08}";
 	"{a1a93d5f-c5dd-4c2f-9875-05636f65347d}";
 	"{203342d2-299b-4c9f-ac41-b67e3a52fe81}";
 	"{d526ac1d-8782-458a-83d5-37b94c951727}";
